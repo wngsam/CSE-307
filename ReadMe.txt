@@ -1,4 +1,4 @@
-Various assignments from CSE307: Principles of Programming Languages Spring 2014
+Various assignments from CSE307 - Principles of Programming Languages Spring 2014
 The main objective was to build a parser to parse simple languages.
 
 A lot of code was provided by the professor and then built upon as the assignments progressed.
