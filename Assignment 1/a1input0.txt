@@ -1,0 +1,5 @@
+Name	ID	College	Cash
+Sam	4857	StonyBrook	$10.00
+Benjamin	2348	Bingham	$38.45
+
+Liss	38	NYU	$0

@@ -1,0 +1,18 @@
+Number of rows: 4
+Number of columns: 4
+Column 0: Name
+ 1 Benjamin
+ 1 Liss
+ 1 Sam
+Column 1: ID
+ 1 38
+ 1 2348
+ 1 4857
+Column 2: College
+ 1 Bingham
+ 1 NYU
+ 1 StonyBrook
+Column 3: Cash
+ 1 $0
+ 1 $10.00
+ 1 $38.45
